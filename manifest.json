@@ -1,0 +1,10 @@
+{
+  "id": "ai-coding-picks",
+  "name": "AI编程精选",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "AI 编程工具、编码智能体与有证据的开发工作流的人工精选阅读，可记入今日日记。",
+  "author": "正涛 (Serennity007)",
+  "authorUrl": "https://github.com/Serennity007",
+  "isDesktopOnly": false
+}

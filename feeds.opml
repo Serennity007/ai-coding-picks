@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head><title>AI编程精选</title></head>
+  <body>
+    <outline text="AI编程精选" title="AI编程精选">
+      <outline type="rss" text="AI编程精选" title="AI编程精选" xmlUrl="https://raw.githubusercontent.com/Serennity007/ai-coding-picks/main/feed.xml" htmlUrl="https://github.com/Serennity007/ai-coding-picks"/>
+    </outline>
+  </body>
+</opml>

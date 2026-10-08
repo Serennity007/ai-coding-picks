@@ -1,0 +1,171 @@
+{
+  "checkedAt": "2026-10-08T20:00:31.796Z",
+  "checkedOn": "2026-10-09",
+  "timezone": "Asia/Shanghai",
+  "direction": "ai-coding-picks",
+  "method": "Direct HTTP fetch + the bundled reader decoder/parser; Electron-style UA; raw Qiaomu DTD guard checked separately",
+  "results": [
+    {
+      "id": "boris-tane",
+      "name": "Boris Tane",
+      "feedUrl": "https://boristane.com/rss.xml",
+      "finalUrl": "https://boristane.com/rss.xml",
+      "ok": true,
+      "count": 21,
+      "format": "rss",
+      "bytes": 297593,
+      "newest": "2026-08-21",
+      "qiaomuGuardCompatible": true,
+      "sample": [
+        {
+          "title": "On-Call Is Now Theatre",
+          "url": "https://boristane.com/blog/on-call-is-now-theatre/",
+          "date": "Fri, 21 Aug 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Slop Creep: The Great Enshittification of Software",
+          "url": "https://boristane.com/blog/slop-creep-enshittification-of-software/",
+          "date": "Sat, 14 Mar 2026 00:00:00 GMT"
+        },
+        {
+          "title": "The Software Development Lifecycle Is Dead",
+          "url": "https://boristane.com/blog/the-software-development-lifecycle-is-dead/",
+          "date": "Fri, 20 Feb 2026 00:00:00 GMT"
+        },
+        {
+          "title": "How I Use Claude Code",
+          "url": "https://boristane.com/blog/how-i-use-claude-code/",
+          "date": "Tue, 10 Feb 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Ship types, not docs",
+          "url": "https://boristane.com/blog/ship-types/",
+          "date": "Sun, 01 Feb 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Logging Sucks",
+          "url": "https://boristane.com/blog/logging-sucks/",
+          "date": "Sun, 21 Dec 2025 00:00:00 GMT"
+        },
+        {
+          "title": "What even are Cloudflare Durable Objects?",
+          "url": "https://boristane.com/blog/what-are-cloudflare-durable-objects/",
+          "date": "Tue, 04 Nov 2025 00:00:00 GMT"
+        },
+        {
+          "title": "Unlimited On-Demand Graph Databases with Cloudflare Durable Objects",
+          "url": "https://boristane.com/blog/durable-objects-graph-databases/",
+          "date": "Mon, 27 Oct 2025 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "jesse-vincent",
+      "name": "Jesse Vincent / Massively Parallel Procrastination",
+      "feedUrl": "https://blog.fsck.com/feed/rss.xml",
+      "finalUrl": "https://blog.fsck.com/feed/rss.xml",
+      "ok": true,
+      "count": 544,
+      "format": "rss",
+      "bytes": 1403618,
+      "newest": "2026-10-05",
+      "qiaomuGuardCompatible": true,
+      "sample": [
+        {
+          "title": "Today at work",
+          "url": "https://blog.fsck.com/2026/10/05/today-at-work/",
+          "date": "Mon, 05 Oct 2026 00:00:00 +0000"
+        },
+        {
+          "title": "A quick trip to the uncanny valley",
+          "url": "https://blog.fsck.com/2026/10/02/a-quick-trip-to-the-uncanny-valley/",
+          "date": "Fri, 02 Oct 2026 00:00:00 +0000"
+        },
+        {
+          "title": "I asked muse to tell me about updates to its skills",
+          "url": "https://blog.fsck.com/2026/09/29/I-asked-muse-to-tell-me-about-updates-to-its-skills/",
+          "date": "Tue, 29 Sep 2026 00:00:00 +0000"
+        },
+        {
+          "title": "SF: A Birds of a Feather on Agentic Engineering",
+          "url": "https://blog.fsck.com/2026/09/22/agentic-dev-in-sf/",
+          "date": "Tue, 22 Sep 2026 00:00:00 +0000"
+        },
+        {
+          "title": "Superpowers 6.4",
+          "url": "https://blog.fsck.com/2026/09/21/superpowers-6.4/",
+          "date": "Mon, 21 Sep 2026 00:00:00 +0000"
+        },
+        {
+          "title": "I vibe-coded a C compiler that can build SQLite",
+          "url": "https://blog.fsck.com/2026/08/21/i-vibe-coded-a-c-compiler/",
+          "date": "Fri, 21 Aug 2026 00:00:00 +0000"
+        },
+        {
+          "title": "The Therapist Pattern",
+          "url": "https://blog.fsck.com/2026/07/20/the-therapist-pattern/",
+          "date": "Mon, 20 Jul 2026 00:00:00 +0000"
+        },
+        {
+          "title": "Some new agentic patterns",
+          "url": "https://blog.fsck.com/2026/07/05/new-patterns/",
+          "date": "Sun, 05 Jul 2026 00:00:00 +0000"
+        }
+      ]
+    },
+    {
+      "id": "armin-ronacher",
+      "name": "Armin Ronacher",
+      "feedUrl": "https://lucumr.pocoo.org/feed.atom",
+      "finalUrl": "https://lucumr.pocoo.org/feed.atom",
+      "ok": true,
+      "count": 10,
+      "format": "feed",
+      "bytes": 252978,
+      "newest": "2026-10-06",
+      "qiaomuGuardCompatible": true,
+      "sample": [
+        {
+          "title": "What is Codemode",
+          "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
+          "date": "2026-10-06T00:00:00+00:00"
+        },
+        {
+          "title": "Deser: Rethinking Rust Serialization",
+          "url": "https://lucumr.pocoo.org/2026/9/29/deser/",
+          "date": "2026-09-29T00:00:00+00:00"
+        },
+        {
+          "title": "Interpreting Pangram",
+          "url": "https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/",
+          "date": "2026-09-14T00:00:00+00:00"
+        },
+        {
+          "title": "P(doom)",
+          "url": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
+          "date": "2026-09-12T00:00:00+00:00"
+        },
+        {
+          "title": "Astra for Coding: Why Are We Doing This Again?",
+          "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+          "date": "2026-09-07T00:00:00+00:00"
+        },
+        {
+          "title": "Latent Powers",
+          "url": "https://lucumr.pocoo.org/2026/9/5/latent-powers/",
+          "date": "2026-09-05T00:00:00+00:00"
+        },
+        {
+          "title": "Anger, Anxiety and Agency",
+          "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
+          "date": "2026-08-24T00:00:00+00:00"
+        },
+        {
+          "title": "Fast and Hard Code",
+          "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+          "date": "2026-08-22T00:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}
