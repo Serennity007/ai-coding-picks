@@ -1,6 +1,6 @@
 # AI编程精选来源池
 
-默认只订阅本仓库的 [人工精选 RSS](https://raw.githubusercontent.com/Serennity007/ai-coding-picks/main/feed.xml)。来源池只供维护者发现候选，不整源导入。不收工具导航、推广榜单、纯版本公告和泛技术周刊。
+默认只订阅本仓库的 [人工精选 RSS](https://serennity007.github.io/ai-coding-picks/feed.xml)。来源池只供维护者发现候选，不整源导入。不收工具导航、推广榜单、纯版本公告和泛技术周刊。
 
 由 src/feeds.js 自动生成；混合来源中的宣传、公告和跑题文章逐篇排除。源可抓取不代表所有文章应进入频道。
 

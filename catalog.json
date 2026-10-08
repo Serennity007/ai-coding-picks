@@ -4,7 +4,7 @@
   "title": "AI编程精选",
   "scope": "AI 编程工具、编码智能体与有证据的开发工作流",
   "curatedOn": "2026-10-09",
-  "feedUrl": "https://raw.githubusercontent.com/Serennity007/ai-coding-picks/main/feed.xml",
+  "feedUrl": "https://serennity007.github.io/ai-coding-picks/feed.xml",
   "picks": [
     {
       "id": "armin-astra-for-coding",

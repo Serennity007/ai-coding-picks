@@ -13,7 +13,7 @@ export const CURATED_FEEDS = [
     "name": "AI编程精选",
     "category": "article",
     "siteUrl": "https://github.com/Serennity007/ai-coding-picks",
-    "feedUrl": "https://raw.githubusercontent.com/Serennity007/ai-coding-picks/main/feed.xml",
+    "feedUrl": "https://serennity007.github.io/ai-coding-picks/feed.xml",
     "note": "人工逐篇精选，附原创摘要与推荐理由；审核并提交后才更新"
   }
 ];

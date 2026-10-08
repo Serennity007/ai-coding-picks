@@ -1,0 +1,53 @@
+{
+  "checkedAt": "2026-10-08T20:11:33.146Z",
+  "checkedOn": "2026-10-09",
+  "timezone": "Asia/Shanghai",
+  "direction": "ai-coding-picks",
+  "method": "Direct HTTP fetch + the bundled reader decoder/parser; Electron-style UA; raw Qiaomu DTD guard checked separately",
+  "results": [
+    {
+      "id": "ai-coding-picks",
+      "name": "AI编程精选",
+      "feedUrl": "https://serennity007.github.io/ai-coding-picks/feed.xml",
+      "finalUrl": "https://serennity007.github.io/ai-coding-picks/feed.xml",
+      "ok": true,
+      "count": 6,
+      "format": "rss",
+      "bytes": 5491,
+      "newest": "2026-09-07",
+      "qiaomuGuardCompatible": true,
+      "sample": [
+        {
+          "title": "Astra for Coding: Why Are We Doing This Again?",
+          "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+          "date": "Mon, 07 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "title": "I vibe-coded a C compiler that can build SQLite",
+          "url": "https://blog.fsck.com/2026/08/21/i-vibe-coded-a-c-compiler/",
+          "date": "Fri, 21 Aug 2026 00:00:00 GMT"
+        },
+        {
+          "title": "The Therapist Pattern",
+          "url": "https://blog.fsck.com/2026/07/20/the-therapist-pattern/",
+          "date": "Mon, 20 Jul 2026 00:00:00 GMT"
+        },
+        {
+          "title": "How I Use Claude Code",
+          "url": "https://boristane.com/blog/how-i-use-claude-code/",
+          "date": "Tue, 10 Feb 2026 00:00:00 GMT"
+        },
+        {
+          "title": "packnplay: Making it easy to run coding agents in containers",
+          "url": "https://blog.fsck.com/2025/12/10/packnplay/",
+          "date": "Wed, 10 Dec 2025 00:00:00 GMT"
+        },
+        {
+          "title": "Superpowers: How I'm using coding agents in October 2025",
+          "url": "https://blog.fsck.com/2025/10/09/superpowers/",
+          "date": "Thu, 09 Oct 2025 00:00:00 GMT"
+        }
+      ]
+    }
+  ]
+}
